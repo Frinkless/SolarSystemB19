@@ -1,4 +1,4 @@
-package SolarSystem;
+package solarSystem;
 
 public class SolarSystemBase {
     String sun;
